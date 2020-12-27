@@ -13,3 +13,4 @@ Tools:
 ![git](https://img.shields.io/badge/-Git-black)
 ![babel](https://img.shields.io/badge/-Babel-yellow)
 ![webpack](https://img.shields.io/badge/-Webpack-blue)
+![eslint](https://img.shields.io/badge/-ESLint-%234c32c3)
