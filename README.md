@@ -11,6 +11,7 @@ Languages:
 
 Frameworks/libraries:  
 ![react](https://img.shields.io/badge/-React-%2361dafa)
+![express](https://img.shields.io/badge/-Express-%23363636)
 
 Tools:  
 ![git](https://img.shields.io/badge/-Git-black)
