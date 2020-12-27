@@ -8,6 +8,8 @@ Languages:
 ![graphql](https://img.shields.io/badge/-GraphQL-%23df0598)
 ![css](https://img.shields.io/badge/-CSS-green)
 ![html5](https://img.shields.io/badge/-HTML5-orange)
+![json](https://img.shields.io/badge/-JSON-%234f4f4f)
+![markdown](https://img.shields.io/badge/-Markdown-black)
 
 Tools:  
 ![react](https://img.shields.io/badge/-React-blue)
