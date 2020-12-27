@@ -10,3 +10,4 @@ Languages:
 
 Tools:  
 ![react](https://img.shields.io/badge/-React-blue)
+![git](https://img.shields.io/badge/-Git-black)
