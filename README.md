@@ -1,5 +1,6 @@
 # Frontend-developer
-Languages: ![javascript](https://img.shields.io/badge/-JavaScript-%23f6e01b)
+Languages:  
+![javascript](https://img.shields.io/badge/-JavaScript-%23f6e01b)
 ![typescript](https://img.shields.io/badge/-TypeScript-%233279c9)
 ![nodejs](https://img.shields.io/badge/-Node.js-%23026e00)
 ![graphql](https://img.shields.io/badge/-GraphQL-%23df0598)
@@ -24,6 +25,7 @@ Tools:
 Socials:  
 [![vk](https://img.shields.io/badge/-ykundin-blue?logo=vk&logoColor=white)](https://vk.com/ykundin)
 [![instagram](https://img.shields.io/badge/-y.kundin-%23db2f75?logo=instagram&logoColor=white)](https://www.instagram.com/y.kundin/)
+[![mail](https://img.shields.io/badge/-yury.kundin@yandex.ru-%23ffdb4d?logo=mail.ru&logoColor=white)](mailto:yury.kundin@yandex.ru)
 
 Others:  
 ![wpm](https://img.shields.io/badge/60%20wpm-typing%20speed-green) 
