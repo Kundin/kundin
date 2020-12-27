@@ -24,6 +24,7 @@ Tools:
 
 Socials:  
 [![vk](https://img.shields.io/badge/-ykundin-blue?logo=vk&logoColor=white)](https://vk.com/ykundin)
+[![instagram](https://img.shields.io/badge/-y.kundin-%23db2f75?logo=instagram&logoColor=white)](https://www.instagram.com/y.kundin/)
 
 Others:  
 ![wpm](https://img.shields.io/badge/60%20wpm-typing%20speed-green) 
