@@ -22,5 +22,8 @@ Tools:
 ![prettier](https://img.shields.io/badge/-Prettier-black)
 ![npm](https://img.shields.io/badge/-NPM-%23ca3838)
 
+Socials:  
+[![vk](https://img.shields.io/badge/-ykundin-blue?logo=vk&logoColor=white)](https://vk.com/ykundin)
+
 Others:  
 ![wpm](https://img.shields.io/badge/60%20wpm-typing%20speed-green) 
