@@ -4,23 +4,23 @@ Languages:
 ![typescript](https://img.shields.io/badge/-TypeScript-%233279c9?logo=typescript&logoColor=white)
 ![nodejs](https://img.shields.io/badge/-Node.js-%23026e00?logo=node.js&logoColor=white)
 ![graphql](https://img.shields.io/badge/-GraphQL-%23df0598?logo=graphql&logoColor=white)
-![css](https://img.shields.io/badge/-CSS-%238e9f1f?logo=css&logoColor=white)
+![css](https://img.shields.io/badge/-CSS-%238e9f1f?logo=css3&logoColor=white)
 ![html5](https://img.shields.io/badge/-HTML5-%23f16629?logo=html5&logoColor=white)
 ![json](https://img.shields.io/badge/-JSON-%234f4f4f?logo=json&logoColor=white)
 ![markdown](https://img.shields.io/badge/-Markdown-black?logo=markdown&logoColor=white)
 
 Frameworks/libraries:  
-![react](https://img.shields.io/badge/-React-%2361dafa)
+![react](https://img.shields.io/badge/-React-%2361dafa?logo=react&logoColor=white)
 ![express](https://img.shields.io/badge/-Express-%23363636)
-![jest](https://img.shields.io/badge/-Jest-%239b425d)
+![jest](https://img.shields.io/badge/-Jest-%239b425d?logo=jest&logoColor=white)
 
 Tools:  
-![git](https://img.shields.io/badge/-Git-black)
-![babel](https://img.shields.io/badge/-Babel-%23fbde3b)
-![webpack](https://img.shields.io/badge/-Webpack-%232071b3)
-![eslint](https://img.shields.io/badge/-ESLint-%234c32c3)
-![prettier](https://img.shields.io/badge/-Prettier-black)
-![npm](https://img.shields.io/badge/-NPM-%23ca3838)
+![git](https://img.shields.io/badge/-Git-black?logo=git&logoColor=white)
+![babel](https://img.shields.io/badge/-Babel-%23fbde3b?logo=babel&logoColor=white)
+![webpack](https://img.shields.io/badge/-Webpack-%232071b3?logo=webpack&logoColor=white)
+![eslint](https://img.shields.io/badge/-ESLint-%234c32c3?logo=eslint&logoColor=white)
+![prettier](https://img.shields.io/badge/-Prettier-black?logo=prettier&logoColor=white)
+![npm](https://img.shields.io/badge/-NPM-%23ca3838?logo=npm&logoColor=white)
 
 Socials:  
 [![vk](https://img.shields.io/badge/-ykundin-blue?logo=vk&logoColor=white)](https://vk.com/ykundin)
