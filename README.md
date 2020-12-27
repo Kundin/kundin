@@ -1,6 +1,5 @@
 # Frontend-developer
-Languages:  
-![javascript](https://img.shields.io/badge/-JavaScript-%23f6e01b)
+Languages: ![javascript](https://img.shields.io/badge/-JavaScript-%23f6e01b)
 ![typescript](https://img.shields.io/badge/-TypeScript-%233279c9)
 ![nodejs](https://img.shields.io/badge/-Node.js-%23026e00)
 ![graphql](https://img.shields.io/badge/-GraphQL-%23df0598)
