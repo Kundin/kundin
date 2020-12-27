@@ -11,3 +11,5 @@ Languages:
 Tools:  
 ![react](https://img.shields.io/badge/-React-blue)
 ![git](https://img.shields.io/badge/-Git-black)
+![babel](https://img.shields.io/badge/-Babel-yellow)
+![webpack](https://img.shields.io/badge/-Webpack-blue)
