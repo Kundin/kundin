@@ -5,6 +5,7 @@ Languages:
 ![javascript](https://img.shields.io/badge/-JavaScript-yellow)
 ![typescript](https://img.shields.io/badge/-TypeScript-blue)
 ![nodejs](https://img.shields.io/badge/-NodeJs-orange)
+![graphql](https://img.shields.io/badge/-GraphQL-%23df0598)
 ![css](https://img.shields.io/badge/-CSS-green)
 ![html5](https://img.shields.io/badge/-HTML5-orange)
 
