@@ -1,13 +1,13 @@
 # Frontend-developer
 Languages:  
-![javascript](https://img.shields.io/badge/-JavaScript-%23f6e01b)
-![typescript](https://img.shields.io/badge/-TypeScript-%233279c9)
-![nodejs](https://img.shields.io/badge/-Node.js-%23026e00)
-![graphql](https://img.shields.io/badge/-GraphQL-%23df0598)
-![css](https://img.shields.io/badge/-CSS-%238e9f1f)
-![html5](https://img.shields.io/badge/-HTML5-%23f16629)
-![json](https://img.shields.io/badge/-JSON-%234f4f4f)
-![markdown](https://img.shields.io/badge/-Markdown-black)
+![javascript](https://img.shields.io/badge/-JavaScript-%23f6e01b?logo=javascript&logoColor=white)
+![typescript](https://img.shields.io/badge/-TypeScript-%233279c9?logo=typescript&logoColor=white)
+![nodejs](https://img.shields.io/badge/-Node.js-%23026e00?logo=node.js&logoColor=white)
+![graphql](https://img.shields.io/badge/-GraphQL-%23df0598?logo=graphql&logoColor=white)
+![css](https://img.shields.io/badge/-CSS-%238e9f1f?logo=css&logoColor=white)
+![html5](https://img.shields.io/badge/-HTML5-%23f16629?logo=html5&logoColor=white)
+![json](https://img.shields.io/badge/-JSON-%234f4f4f?logo=json&logoColor=white)
+![markdown](https://img.shields.io/badge/-Markdown-black?logo=markdown&logoColor=white)
 
 Frameworks/libraries:  
 ![react](https://img.shields.io/badge/-React-%2361dafa)
