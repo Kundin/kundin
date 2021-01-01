@@ -13,6 +13,7 @@ Frameworks/libraries:
 ![react](https://img.shields.io/badge/-React-%2361dafa?logo=react&logoColor=white)
 ![express](https://img.shields.io/badge/-Express-%23363636)
 ![jest](https://img.shields.io/badge/-Jest-%239b425d?logo=jest&logoColor=white)
+![mongodb](https://img.shields.io/badge/-MondoDB-%2347a248?logo=mongodb&logoColor=white)
 
 Tools:  
 ![git](https://img.shields.io/badge/-Git-black?logo=git&logoColor=white)
