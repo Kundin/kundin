@@ -14,6 +14,7 @@ Frameworks/libraries:
 ![express](https://img.shields.io/badge/-Express-%23363636)
 ![jest](https://img.shields.io/badge/-Jest-%239b425d?logo=jest&logoColor=white)
 ![mongodb](https://img.shields.io/badge/-MondoDB-%2347a248?logo=mongodb&logoColor=white)
+![passportjs](https://img.shields.io/badge/-Passport.js-%2333df78)
 
 Tools:  
 ![git](https://img.shields.io/badge/-Git-black?logo=git&logoColor=white)
