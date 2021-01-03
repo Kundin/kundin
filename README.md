@@ -11,10 +11,10 @@ Languages:
 
 Frameworks/libraries:  
 [![react](https://img.shields.io/badge/-React-%2361dafa?logo=react&logoColor=white)](https://reactjs.org/)
-[![express](https://img.shields.io/badge/-Express-%23363636)](http://expressjs.com/)
 [![apollo](https://img.shields.io/badge/-Apollo%20GraphQL-%233f20ba?logo=apollo-graphql&logoColor=white)](https://www.apollographql.com/)
 [![jest](https://img.shields.io/badge/-Jest-%239b425d?logo=jest&logoColor=white)](https://jestjs.io/)
 [![mongodb](https://img.shields.io/badge/-MondoDB-%2347a248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![express](https://img.shields.io/badge/-Express-%23363636)](http://expressjs.com/)
 [![passportjs](https://img.shields.io/badge/-Passport.js-%2333df78)](http://www.passportjs.org/)
 
 Tools:  
