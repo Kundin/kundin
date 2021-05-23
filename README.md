@@ -1,7 +1,7 @@
 # Frontend-developer
 Languages:  
-[![javascript](https://img.shields.io/badge/-JavaScript-%23f6e01b?logo=javascript&logoColor=white)](https://learn.javascript.ru/)
 [![typescript](https://img.shields.io/badge/-TypeScript-%233279c9?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![javascript](https://img.shields.io/badge/-JavaScript-%23f6e01b?logo=javascript&logoColor=white)](https://learn.javascript.ru/)
 [![nodejs](https://img.shields.io/badge/-Node.js-%23026e00?logo=node.js&logoColor=white)](https://nodejs.org/en/)
 [![graphql](https://img.shields.io/badge/-GraphQL-%23df0598?logo=graphql&logoColor=white)](https://graphql.org/)
 [![css](https://img.shields.io/badge/-CSS-%238e9f1f?logo=css3&logoColor=white)](https://ru.wikipedia.org/wiki/CSS)
